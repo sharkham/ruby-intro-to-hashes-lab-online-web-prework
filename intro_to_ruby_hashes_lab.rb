@@ -33,6 +33,7 @@ def monopoly_with_third_tier
 	    names: {},
 	    rent_in_dollars: {}
 	  }
+	  binding.pry
 	}	
 end
 
